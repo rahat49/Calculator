@@ -1,3 +1,3 @@
 # Calculator
 Calculator using MAUI.Net Framework
-![](Iphone.png)
+![](IPhone.png)
